@@ -1,0 +1,40 @@
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: Arial;
+    color: rgb(100, 100, 100);
+}
+
+.form-title {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.form-box {
+    font-size: 16px;
+    width: 400px;
+    height: 25px;
+    border-style: solid;
+    border-color: rgb(100, 100, 100);
+    border-width: 2px;
+    border-radius: 5px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    margin-bottom: 20px;
+}
+
+.form-agree {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.button-agree {
+    background-color: rgb(10, 102, 194);
+    color: white;
+    font-size: 20px;
+    border-style: none;
+    border-radius: 30px;
+    width: 400px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
